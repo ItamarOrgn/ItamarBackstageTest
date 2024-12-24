@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Test 1
+  links:
+    - title: Env0 Console
+      url: https://app.env0.com/p/d99a3a25-daab-4052-ab69-c1345c817129/environments/a7043276-ae69-4c62-983a-c11688e0f505
+  tags:
+    - env0
+  annotations:
+    github.com/project-slug: env0/env0-backstage-plugin
+    env0.com/environment-id: a7043276-ae69-4c62-983a-c11688e0f505
+    env0.com/project-id: d99a3a25-daab-4052-ab69-c1345c817129
+    env0.com/organization-id: f816cf52-a950-4747-ac8f-9313f4f78104
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default
