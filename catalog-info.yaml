@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sdassssssss
+  name: manuallyEdit
   links:
     - title: Env0 Console
       url: https://app.env0.com/p/d99a3a25-daab-4052-ab69-c1345c817129/environments/914a1bc2-ee19-4d90-9ff3-75739dfbd6f6
