@@ -9,7 +9,7 @@ metadata:
     - env0
   annotations:
     github.com/project-slug: env0/env0-backstage-plugin
-    env0.com/environment-id: 914a1bc2-ee19-4d90-9ff3-75739dfbd6f6
+    env0.com/environment-id: d72d47a5-2633-4bca-a6f0-9196bb89a164
     env0.com/project-id: d99a3a25-daab-4052-ab69-c1345c817129
     env0.com/organization-id: f816cf52-a950-4747-ac8f-9313f4f78104
 spec:
