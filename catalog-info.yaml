@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asfd123
+  links:
+    - title: Env0 Console
+      url: https://app.env0.com/p/d99a3a25-daab-4052-ab69-c1345c817129/environments/37240631-d541-4633-845c-0e9990d52a84
+  tags:
+    - env0
+  annotations:
+    github.com/project-slug: env0/env0-backstage-plugin
+    env0.com/environment-id: 37240631-d541-4633-845c-0e9990d52a84
+    env0.com/project-id: d99a3a25-daab-4052-ab69-c1345c817129
+    env0.com/organization-id: f816cf52-a950-4747-ac8f-9313f4f78104
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default
